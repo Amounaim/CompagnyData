@@ -1,0 +1,10 @@
+ Code: D2 
+ Name : physique 
+ Location: Settat 
+ 
+ 	 ********** 
+ Code: D1 
+ Name : mathematique 
+ Location: taza 
+ 
+ 	 ********** 

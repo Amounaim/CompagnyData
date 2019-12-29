@@ -1,0 +1,7 @@
+ Code: 123 
+ Name : test1 
+ City : CASABLANCA 
+ Phone : 0655223344 
+ Email: mounaim@testtest.com 
+ 
+ 	 ********** 
